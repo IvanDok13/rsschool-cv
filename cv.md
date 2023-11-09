@@ -71,3 +71,25 @@ console.log(rgb(0, 0, 0)) //"000000"
 console.log(rgb(148, 0, 211)) //"9400D3"
 ```
 ---
+### Projects
+1. [Traveling-site](https://ivandok13.github.io/traveling-site/)
+2. [Image-gallery](https://rolling-scopes-school.github.io/ivandok13-JSFEPRESCHOOL2023Q2/image-galery/)
+3. [Pictures-slider](https://ivandok13.github.io/pictures-slider/)
+4. [cssMemeSlider](https://ivandok13.github.io/cssMemeSlider/cssMemeSlider/index.html)
+5. [Car-Slider-Project](https://ivandok13.github.io/slide-project/)
+6. [Morse-decoder](https://github.com/IvanDok13/morse-decoder)
+7. [Video Player](https://rolling-scopes-school.github.io/ivandok13-JSFEPRESCHOOL2023Q2/custom-video/)
+8. [Library](https://rolling-scopes-school.github.io/ivandok13-JSFEPRESCHOOL2023Q2/library/)
+9. [Drag-and-drop](https://ivandok13.github.io/drag-and-drop/)
+
+---
+### Courses:
+The Rolling Scopes School - JS/FE Pre-School 2023Q2<br>
+Result School - HTML&CSS 2022<br>
+PASV - JavaScript 2022<br>
+Hexlet - Front-end Developer 2021<br>
+
+---
+### Languages:
+- Russian \- Native
+- English \- Upper-intermediate
