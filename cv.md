@@ -31,3 +31,43 @@ I love making improvements to workflows, solving complex problems, optimizing an
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" title="VIM" width="40" height="40"/>&nbsp;
 
 ---
+### Code examples:
+<a href="https://www.codewars.com/users/rsschool_5bb3f79998ed1d87"><img src="https://www.codewars.com/users/rsschool_5bb3f79998ed1d87/badges/large"></a>
+
+**[Is a number prime?](https://www.codewars.com/kata/5262119038c0985a5b00029f)**
+*Define a function that takes an integer argument and returns a logical value true or false depending on if the integer is a prime.*
+
+```javascript
+const isPrime = num => {
+    for(let i = 2, s = Math.sqrt(num); i <= s; i++) {
+        if(num % i === 0) return false;
+    }
+    return num > 1;
+}
+
+console.log(isPrime(1)) //false
+console.log(isPrime(2)) //true
+console.log(isPrime(-1)) //false
+```
+**[RGB To Hex Conversion](https://www.codewars.com/kata/513e08acc600c94f01000001)**
+*The rgb function is incomplete. Complete it so that passing in RGB decimal values will result in a hexadecimal representation being returned. Valid decimal values for RGB are 0 - 255. Any values that fall out of that range must be rounded to the closest valid value.*
+
+```javascript
+function rgb(r, g, b) {
+  let str = '';
+  if (r < 0) r = 0;
+  if (g < 0) g = 0;
+  if (b < 0) b = 0;
+  if (r > 255) r = 255;
+  if (g > 255) g = 255;
+  if (b > 255) b = 255;
+  str = `${('0' + r.toString(16)).slice(-2)}${('0' + g.toString(16)).slice(-2)}${('0' + b.toString(16)).slice(-2)}`
+  return str.toUpperCase();
+}
+
+console.log(rgb(255, 255, 255)) //"FFFFFF"
+console.log(rgb(255, 255, 300)) //"FFFFFF"
+console.log(rgb(0, 0, 0)) //"000000"
+console.log(rgb(148, 0, 211)) //"9400D3"
+```
+---
