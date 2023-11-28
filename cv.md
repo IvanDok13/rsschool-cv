@@ -81,6 +81,7 @@ console.log(rgb(148, 0, 211)) //"9400D3"
 7. [Video Player](https://rolling-scopes-school.github.io/ivandok13-JSFEPRESCHOOL2023Q2/custom-video/)
 8. [Library](https://rolling-scopes-school.github.io/ivandok13-JSFEPRESCHOOL2023Q2/library/)
 9. [Drag-and-drop](https://ivandok13.github.io/drag-and-drop/)
+10. [Coffe-house](https://rolling-scopes-school.github.io/ivandok13-JSFE2023Q4/coffee-house/pages/main/)
 
 ---
 ### Courses:
