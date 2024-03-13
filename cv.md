@@ -9,14 +9,14 @@
 
 ---
 ### About Me:
-I worked as a researcher in the field of laser technology for 6 years. Developed various research methods, conducted experiments and made calculations.
-
-In addition to my main job, for 6 years I was involved in and managed a company organizing outdoor events.
-
-I became very interested in front-end development after I saw the work of my friends from the 'InDriver' and  
-other large companies.
-
-I love making improvements to workflows, solving complex problems, optimizing anything. I am sure that these skills will allow me to become an excellent developer.
+   I've been working as a freelance front-end developer for a year and a half. 
+   Before that I worked as a researcher for 6 years. I developed a method for materials and elements research, conducted experiments and made calculations. I designed and conducted experiments, prepared reports, and wrote and edited technical documentation.       
+   
+   I decided to change my main activity and become a JS front-end developer because it is more intresting field for me. I independently mastered the necessary skills, took courses from The Rolling Scopes School (stage 0 - 2), HEXLET, PASV and other platforms. I continue to learn and improve my knowledge every free minute. 
+   
+   I am sure that frontend is my calling. I liked writing code and finding the best ways to solve a problem even at the learning stage. I enjoy improving workflows, solving complex problems, and optimizing. 
+   
+   I want to continue to develop in the IT field, find a strong team of like-minded people and a new interesting project. I have an account on GitHub where you can see my activities and my projects.
 
 ---
 ### Languages and tools
@@ -83,6 +83,7 @@ console.log(rgb(148, 0, 211)) //"9400D3"
 9. [Drag-and-drop](https://ivandok13.github.io/drag-and-drop/)
 10. [Coffe-house](https://rolling-scopes-school.github.io/ivandok13-JSFE2023Q4/coffee-house/pages/main/)
 11. [Hangman-game](https://rolling-scopes-school.github.io/ivandok13-JSFE2023Q4/)
+12. [Nonograms-game](https://rolling-scopes-school.github.io/ivandok13-JSFE2023Q4/nonograms/)
 
 ---
 ### Courses:
