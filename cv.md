@@ -6,6 +6,7 @@
 **E-mail:** [klochkov.ivan.sergeevich@gmail.com](mailto:klochkov.ivan.sergeevich@gmail.com)<br>
 **Telegram:** [Dokivan](https://t.me/Dokivan)<br>
 **Discord:** [IvanDok13](https://discordapp.com/users/IvanDok13#5167/)<br>
+**GitHub:** [IvanDok13](https://github.com/IvanDok13)<br>
 
 ---
 ### About Me:
