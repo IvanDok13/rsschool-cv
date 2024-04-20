@@ -74,18 +74,18 @@ console.log(rgb(148, 0, 211)) //"9400D3"
 ```
 ---
 ### Projects
-1. [Traveling-site](https://ivandok13.github.io/traveling-site/)
+1. [Coffe-house](https://rolling-scopes-school.github.io/ivandok13-JSFE2023Q4/coffee-house/pages/main/)
 2. [Image-gallery](https://rolling-scopes-school.github.io/ivandok13-JSFEPRESCHOOL2023Q2/image-galery/)
 3. [Pictures-slider](https://ivandok13.github.io/pictures-slider/)
-4. [cssMemeSlider](https://ivandok13.github.io/cssMemeSlider/cssMemeSlider/index.html)
-5. [Car-Slider-Project](https://ivandok13.github.io/slide-project/)
-6. [Morse-decoder](https://github.com/IvanDok13/morse-decoder)
-7. [Video Player](https://rolling-scopes-school.github.io/ivandok13-JSFEPRESCHOOL2023Q2/custom-video/)
-8. [Library](https://rolling-scopes-school.github.io/ivandok13-JSFEPRESCHOOL2023Q2/library/)
+4. [Nonograms-game](https://rolling-scopes-school.github.io/ivandok13-JSFE2023Q4/nonograms/)
+5. [Video Player](https://rolling-scopes-school.github.io/ivandok13-JSFEPRESCHOOL2023Q2/custom-video/)
+6. [Library](https://rolling-scopes-school.github.io/ivandok13-JSFEPRESCHOOL2023Q2/library/)
+7. [Car-Slider-Project](https://ivandok13.github.io/slide-project/)
+8. [Morse-decoder](https://github.com/IvanDok13/morse-decoder)
 9. [Drag-and-drop](https://ivandok13.github.io/drag-and-drop/)
-10. [Coffe-house](https://rolling-scopes-school.github.io/ivandok13-JSFE2023Q4/coffee-house/pages/main/)
+10. [Traveling-site](https://ivandok13.github.io/traveling-site/) 
 11. [Hangman-game](https://rolling-scopes-school.github.io/ivandok13-JSFE2023Q4/)
-12. [Nonograms-game](https://rolling-scopes-school.github.io/ivandok13-JSFE2023Q4/nonograms/)
+12. [cssMemeSlider](https://ivandok13.github.io/cssMemeSlider/cssMemeSlider/index.html)
 
 ---
 ### Courses:
