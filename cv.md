@@ -11,7 +11,7 @@
 ---
 ### About Me:
    I've been working as a freelance front-end developer for a year and a half. 
-   Before that I worked as a researcher for 6 years. I developed a method for materials and elements research, conducted experiments and made calculations. I designed and conducted experiments, prepared reports, and wrote and edited technical documentation.       
+   Before that I worked as a researcher for 7 years. I developed a method for materials and elements research, conducted experiments and made calculations. I designed and conducted experiments, prepared reports, and wrote and edited technical documentation.       
    
    I decided to change my main activity and become a JS front-end developer because it is more intresting field for me. I independently mastered the necessary skills, took courses from The Rolling Scopes School (stage 0 - 2), HEXLET, PASV and other platforms. I continue to learn and improve my knowledge every free minute. 
    
