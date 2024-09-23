@@ -4,30 +4,31 @@
 ### Contact information:
 **Phone:** +7(952)-268-28-64<br>
 **E-mail:** [klochkov.ivan.sergeevich@gmail.com](mailto:klochkov.ivan.sergeevich@gmail.com)<br>
+**Linkedin:** [IvanKlochkov](https://www.linkedin.com/in/klochkov-dev/)<br>
 **Telegram:** [Dokivan](https://t.me/Dokivan)<br>
 **Discord:** [IvanDok13](https://discordapp.com/users/IvanDok13#5167/)<br>
 **GitHub:** [IvanDok13](https://github.com/IvanDok13)<br>
 
 ---
 ### About Me:
-   I've been working as a freelance front-end developer for a year and a half. 
-   Before that I worked as a researcher for 7 years. I developed a method for materials and elements research, conducted experiments and made calculations. I designed and conducted experiments, prepared reports, and wrote and edited technical documentation.       
-   
-   I decided to change my main activity and become a JS front-end developer because it is more intresting field for me. I independently mastered the necessary skills, took courses from The Rolling Scopes School (stage 0 - 2), HEXLET, PASV and other platforms. I continue to learn and improve my knowledge every free minute. 
-   
-   I am sure that frontend is my calling. I liked writing code and finding the best ways to solve a problem even at the learning stage. I enjoy improving workflows, solving complex problems, and optimizing. 
-   
-   I want to continue to develop in the IT field, find a strong team of like-minded people and a new interesting project. I have an account on GitHub where you can see my activities and my projects.
+- Researcher with a Master's degree and 7 years of experience in laser technologies. I have been passionate about client-side software development for 2 years. Created 10+ projects in JS, HTML, CSS, React, TS in various web & mobile based versions. 
+
+- Each project has deepened my understanding of how great design and cutting-edge technology can intersect to create something truly memorable.
+
+- Beyond that, my front-end work is based on clean, modular code that is both efficient and maintainable. My current research involves expanding into React, a natural progression as I continue to search for better tools for building scalable, robust web applications.
+
+- If you’re looking for a front-end developer who’s committed to creating next-generation solutions for the digital age, let’s chat. I’m always open to new challenges, innovative ideas, and collaborations that push the boundaries of what the web can do.
 
 ---
 ### Languages and tools
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JS" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="html" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="html" width="40" height="40"/>&nbsp; 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="css" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="js" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" title="git" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" title="git" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="react" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" title="webpack" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TS" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" title="npm" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="node" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" title="eslint" width="40" height="40"/>&nbsp;
@@ -90,10 +91,21 @@ console.log(rgb(148, 0, 211)) //"9400D3"
 
 ---
 ### Courses:
-The Rolling Scopes School - JS/FE Pre-School 2023Q2<br>
-Result School - HTML&CSS 2022<br>
-PASV - JavaScript 2022<br>
-Hexlet - Front-end Developer 2021<br>
+2024	JavaScript/Front-End 2023Q4 - The Rolling Scopes, JS developer<br>
+2022	JS/FE Pre-School 2023Q2 - The Rolling Scopes, JS developer<br>
+2022	Front-end developer - Hexlet, JavaScript front-end developer<br>
+2022	JavaScript Front-end developer - PASV, JavaScript Front-end developer<br>
+2021	HTML & CSS - Result School, layout designer<br>
+2010	PC systems engineer - "Informatics - Plus" LLC, PC systems engineer-operator<br>
+
+
+---
+### My CodeWarrior profile
+<div id="CodeWars" align="center">
+	<a href="https://www.codewars.com/users/rsschool_5bb3f79998ed1d87"> 
+		<img src="https://www.codewars.com/users/rsschool_5bb3f79998ed1d87/badges/large" >
+	</a>
+</div>
 
 ---
 ### Languages:
