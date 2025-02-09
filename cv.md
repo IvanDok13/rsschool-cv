@@ -2,7 +2,7 @@
 ### Frontend Developer
 ---
 ### Contact information:
-**Phone:** +7(952)-268-28-64<br>
+**Phone:** +8184260335<br>
 **E-mail:** [klochkov.ivan.sergeevich@gmail.com](mailto:klochkov.ivan.sergeevich@gmail.com)<br>
 **Linkedin:** [IvanKlochkov](https://www.linkedin.com/in/klochkov-dev/)<br>
 **Telegram:** [Dokivan](https://t.me/Dokivan)<br>
@@ -11,13 +11,10 @@
 
 ---
 ### About Me:
-- Researcher with a Master's degree and 7 years of experience in laser technologies. I have been passionate about client-side software development for 2 years. Created 10+ projects in JS, HTML, CSS, React, TS in various web & mobile based versions. 
-
+- Software Developer with a Master's degree and 4 years of front-end experience. I am passionate about client-side software development, having built over 20 projects in React, TS, JS, HTML, CSS.
+- My experience spans multiple projects, including custom web apps, e-commerce platforms, and even mini-games, where I've integrated APIs, optimized front-end designs and adapted it for various web and mobile versions.
 - Each project has deepened my understanding of how great design and cutting-edge technology can intersect to create something truly memorable.
-
-- Beyond that, my front-end work is based on clean, modular code that is both efficient and maintainable. My current research involves expanding into React, a natural progression as I continue to search for better tools for building scalable, robust web applications.
-
-- If you’re looking for a front-end developer who’s committed to creating next-generation solutions for the digital age, let’s chat. I’m always open to new challenges, innovative ideas, and collaborations that push the boundaries of what the web can do.
+- Beyond that, my software development work is based on clean, modular code that is both efficient and maintainable. My current research includes extending into React, which is a natural progression as I continue to search for better tools for building scalable, robust web applications.
 
 ---
 ### Languages and tools
@@ -77,9 +74,9 @@ console.log(rgb(148, 0, 211)) //"9400D3"
 ---
 ### Projects
 1. [Coffe-house](https://rolling-scopes-school.github.io/ivandok13-JSFE2023Q4/coffee-house/pages/main/)
-2. [Image-gallery](https://rolling-scopes-school.github.io/ivandok13-JSFEPRESCHOOL2023Q2/image-galery/)
+2. [Christmas-shop](https://rolling-scopes-school.github.io/ivandok13-JSFE2024Q4/christmas-shop/pages/home/)
 3. [Pictures-slider](https://ivandok13.github.io/pictures-slider/)
-4. [Nonograms-game](https://rolling-scopes-school.github.io/ivandok13-JSFE2023Q4/nonograms/)
+4. [Nonograms](https://ivan-dok-nonograms.netlify.app/)
 5. [Video Player](https://rolling-scopes-school.github.io/ivandok13-JSFEPRESCHOOL2023Q2/custom-video/)
 6. [Library](https://rolling-scopes-school.github.io/ivandok13-JSFEPRESCHOOL2023Q2/library/)
 7. [Car-Slider-Project](https://ivandok13.github.io/slide-project/)
@@ -88,6 +85,9 @@ console.log(rgb(148, 0, 211)) //"9400D3"
 10. [Traveling-site](https://ivandok13.github.io/traveling-site/) 
 11. [Hangman-game](https://rolling-scopes-school.github.io/ivandok13-JSFE2023Q4/)
 12. [cssMemeSlider](https://ivandok13.github.io/cssMemeSlider/cssMemeSlider/index.html)
+13. [Image-gallery](https://rolling-scopes-school.github.io/ivandok13-JSFEPRESCHOOL2023Q2/image-galery/)
+14. [Simon-says](https://ivandok13-simon-says.netlify.app/)
+15. [Nonograms-game-old](https://rolling-scopes-school.github.io/ivandok13-JSFE2023Q4/nonograms/)
 
 ---
 ### Courses:
