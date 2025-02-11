@@ -11,7 +11,7 @@
 
 ---
 ### About Me:
-- Software Developer with a Master's degree and 4 years of front-end experience. I am passionate about client-side software development, having built over 20 projects in React, TS, JS, HTML, CSS.
+- Software Developer with a Master's degree and 3 years of front-end experience. I am passionate about client-side software development, having built over 20 projects in React, TS, JS, HTML, CSS.
 - My experience spans multiple projects, including custom web apps, e-commerce platforms, and even mini-games, where I've integrated APIs, optimized front-end designs and adapted it for various web and mobile versions.
 - Each project has deepened my understanding of how great design and cutting-edge technology can intersect to create something truly memorable.
 - Beyond that, my software development work is based on clean, modular code that is both efficient and maintainable. My current research includes extending into React, which is a natural progression as I continue to search for better tools for building scalable, robust web applications.
